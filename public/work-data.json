@@ -39,7 +39,7 @@
     },
     {
         "id": "kic",
-        "title": "Projet VBA en freelance",
+        "title": "VBA project",
         "details": {
             "description": "Vba script to automate mail distribution by adapting the content of the variables contained in the text for each mail.",
             "summary": "Automate mail distribution with a VBA script on excel."
