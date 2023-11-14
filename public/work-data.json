@@ -1,0 +1,94 @@
+[
+    {
+        "id": "lcml",
+        "title": "Internship Deep Learning CNRS",
+        "details": {
+            "description": "A first internship in deep learning research working on computer vision optimization model",
+            "summary": "Computer vision applied to ecology"
+        },
+        "date": "june 2022-december 2023",
+        "roles": [
+            "Data scientist"
+        ],
+        "links": [
+            {
+                "type": "Deep learning",
+                "text": "Click to visit the github project",
+                "link": "https://github.com/lucien92/ProjectOrnithoscope"
+            }
+        ]
+    },
+    {
+        "id": "v1",
+        "title": "Project in modelling credit risk",
+        "details": {
+            "description": "Machine learning project comparing SMOTEENN algorithm, kmeans method and ensemble classifier algorithms (adaboost, random forest) for credit risk prediction",
+            "summary": "Machine learning for credit risk prediction"
+        },
+        "date": "october 2023",
+        "roles": [
+            "Student researcher"
+        ],
+        "links": [
+            {
+                "type": "Machine learning",
+                "text": "Click to visit the github project",
+                "link": "https://github.com/lucien92/Credit_Risk_Analysis"
+            }
+        ]
+    },
+    {
+        "id": "kic",
+        "title": "Projet VBA en freelance",
+        "details": {
+            "description": "Vba script to automate mail distribution by adapting the content of the variables contained in the text for each mail.",
+            "summary": "Automate mail distribution with a VBA script on excel."
+        },
+        "date": "June 2023",
+        "roles": [
+            "Freelance"
+        ],
+        "links": [
+            {
+                "type": "VBA",
+                "text": "Click to visit the github project",
+                "link": "https://github.com/lucien92/automated_mail_distribution"
+            }
+        ]
+    },
+    {
+        "id": "grillzzy",
+        "title": "Deep learning for an environemental association",
+        "details": {
+            "description": "Creation of a Yolov5 computer vision algorithm coupled with a resnet50 in partnership with EDF to help the Noé association detect the presence of moths.",
+            "summary": "Brand Website"
+        },
+        "date": "March 2023-July 2023",
+        "roles": [
+            "Freelance"
+        ],
+        "links": [
+            {
+                "type": "Computer vision",
+                "text": "Click to visit the github project",
+                "link": "https://github.com/lucien92/noe_yolov5"
+            }
+        ]
+    },
+    {
+        "id": "kwa",
+        "title": "Mathematics instructor for preparatory classes",
+        "details": {
+            "description": "In charge of oral examinations in probability (kholles) to prepare students for end-of-year competitive examinations",
+            "summary": "Probability instructor"
+        },
+        "date": "September 2023-March 2024",
+        "roles": [
+            "Probability instructor"
+        ],
+        "links": [
+            
+        ]
+    }
+    
+]
