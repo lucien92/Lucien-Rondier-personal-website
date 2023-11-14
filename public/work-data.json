@@ -20,7 +20,7 @@
     },
     {
         "id": "v1",
-        "title": "Project in modelling credit risk",
+        "title": "Project in modeling credit risk",
         "details": {
             "description": "Machine learning project comparing SMOTEENN algorithm, kmeans method and ensemble classifier algorithms (adaboost, random forest) for credit risk prediction",
             "summary": "Machine learning for credit risk prediction"
