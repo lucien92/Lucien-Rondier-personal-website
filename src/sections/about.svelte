@@ -90,7 +90,7 @@ function section2IntroAnimations() {
 <div id="content-container" class="about" bind:this={aboutSection1Container}>
 	<div class="content-wrapper">
 		<h1 class="title" bind:this={title}>
-			Who <br> I am?
+			Who <br> I am
 		</h1>
 		<div bind:this={paragraph}>
 			<p class="paragraph">
